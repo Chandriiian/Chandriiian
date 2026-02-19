@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hola a todos! Bienvenidos a mi perfil de Github
+
+### En este repositorio estareis viendo en los proyectos en los que estoy trabajando.
 
 <!--
 **Chandriiian/Chandriiian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
